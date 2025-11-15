@@ -1,6 +1,13 @@
 {
     "users": [
         {
+            "id":2,
+            "name": "Margo",
+            "Surname": "Voloshyna",
+            "photo_url": "",
+            "balance":100
+        },
+        {
             "id": 1,
             "name": "Mark",
             "Surname": "Aseew", 
